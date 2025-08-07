@@ -7,7 +7,8 @@
   // --canvas-topic-list-padding: 0.8em;
 
   /* Base Styles */
-   --canvas-background: linear-gradient(135deg, #2f00ff, #175f3b);
+   :root {
+     --canvas-background: linear-gradient(to bottom, #004c97 0%, #004c97 40%, #f4f4f5 100%);
   // --canvas-surface: var(--secondary);
   // --canvas-border: 1px solid var(--primary-500);
   // --canvas-border-light: 1px solid var(--primary-200);
