@@ -7,10 +7,10 @@
   // --canvas-topic-list-padding: 0.8em;
 
   /* Base Styles */
-  --canvas-background: linear-gradient(to bottom, #004c97 0%, #004c97 40%, #f4f4f5 100%);
-  // --canvas-surface: var(--secondary);
-  // --canvas-border: 1px solid var(--primary-500);
-  // --canvas-border-light: 1px solid var(--primary-200);
+  --canvas-background: var(--secondary);
+  --canvas-surface: var(--secondary);
+  --canvas-border: 1px solid var(--primary-500);
+  --canvas-border-light: 1px solid var(--primary-200);
 
   /* Border Radius */
   // --d-border-radius: 2px;
@@ -20,14 +20,14 @@
   // --d-nav-pill-border-radius: var(--d-button-border-radius);
 
   /* Button Styles */
-  // --canvas-button-padding: 0.5em 0.65em;
-  // --canvas-button-primary-padding: 0.5em 0.65em;
+  --canvas-button-padding: 0.5em 0.65em;
+  --canvas-button-primary-padding: 0.5em 0.65em;
 
   /* Header */
-  // --canvas-header-height: 4rem;
-  // --canvas-header-background: var(--header_background);
-  // --canvas-header-border: none;
-  // --canvas-header-shadow: var(--shadow-header);
+  --canvas-header-height: 4rem;
+  --canvas-header-background: var(--header_background);
+  --canvas-header-border: none;
+  --canvas-header-shadow: var(--shadow-header);
 
   /* Sidebar */
   // --d-sidebar-width: 17em;
